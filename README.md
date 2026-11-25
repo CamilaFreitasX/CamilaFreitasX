@@ -75,21 +75,14 @@ Minha stack inclui Python, JavaScript, APIs REST, automação de CRM e ferrament
 
 ## 📊 Estatísticas
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=CamilaFreitasX&show_icons=true&icon_color=30A3DC&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF&hide_border=true" alt="Estatísticas" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaFreitasX&layout=compact&langs_count=8&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF&hide_border=true" alt="Linguagens" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=CamilaFreitasX&background=000000&border=000000&stroke=30A3DC&ring=E94D5F&fire=E94D5F&currStreakLabel=E94D5F&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CamilaFreitasX&show_icons=true&icon_color=30A3DC&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF&hide_border=true" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaFreitasX&layout=compact&langs_count=8&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF&hide_border=true" alt="Linguagens" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CamilaFreitasX&background=000000&border=000000&stroke=30A3DC&ring=E94D5F&fire=E94D5F&currStreakLabel=E94D5F&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak" />
+</p>
 
 ## 📌 Projetos em destaque
 
